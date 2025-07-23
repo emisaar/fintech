@@ -1,0 +1,31 @@
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Python virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# Python compiled files
+*.pyc
+__pycache__/
+
+# Logs
+*.log
+
+# Data files
+data/
+
+# Temporary files
+*.tmp
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Credentials and env variables
+.env
